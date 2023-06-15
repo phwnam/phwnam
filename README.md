@@ -11,7 +11,6 @@
 
 ## 📫 How to reach me:
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-ph%C6%B0%C6%A1ng-nam-155a41257/" target="_blank">
@@ -28,7 +27,7 @@
   </a>
 </p>
 
-## Skills:
+<!--## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
@@ -42,15 +41,15 @@
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
-</p>
+</p>-->
 
 ## Activities:
 
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namiiu220919&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=namiiu220919&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
     </td>
     <td>
       <p align="center"> 
