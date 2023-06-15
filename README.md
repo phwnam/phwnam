@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-ph%C6%B0%C6%A1ng-nam-155a41257/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+  <a href="https://www.facebook.com/phwngnam237/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/namiiu220919" alt="Github">
